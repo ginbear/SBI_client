@@ -1,5 +1,4 @@
-# # SBI_client
-[2015-03-26 00:48]
+## SBI_client
 
 SBI証券サイトの株購入を CUI で行うツール
 
